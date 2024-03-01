@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BuilderPattern.Beverage">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACIAAAAAAAAAAAEAAAAAgAAAAAAAIAAAAAIA=</HashCode>
+      <FileName>Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.BeverageBuiler">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAAAAQAAAAAAAAAAAAAAAAAAASAAAAAAAAACM=</HashCode>
+      <FileName>BeverageBuiler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.TeaBuilder">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACI=</HashCode>
+      <FileName>TeaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.CoffeeBuilder">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACI=</HashCode>
+      <FileName>CoffeeBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.BeverageDirector">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BeverageDirector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
