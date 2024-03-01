@@ -1,0 +1,15 @@
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\bin\Debug\net6.0\CourseDetails.exe
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\bin\Debug\net6.0\CourseDetails.deps.json
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\bin\Debug\net6.0\CourseDetails.runtimeconfig.json
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\bin\Debug\net6.0\CourseDetails.dll
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\bin\Debug\net6.0\CourseDetails.pdb
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\CourseDetails.csproj.AssemblyReference.cache
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\CourseDetails.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\CourseDetails.AssemblyInfoInputs.cache
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\CourseDetails.AssemblyInfo.cs
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\CourseDetails.csproj.CoreCompileInputs.cache
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\CourseDetails.dll
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\refint\CourseDetails.dll
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\CourseDetails.pdb
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\CourseDetails.genruntimeconfig.cache
+E:\DevelopmentProjects\DesignPatterns\AbstractFactoryPatterns\CourseDetails\obj\Debug\net6.0\ref\CourseDetails.dll
