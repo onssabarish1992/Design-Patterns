@@ -1,0 +1,15 @@
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\bin\Debug\net6.0\ThreadSafeSingletonPattern.exe
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\bin\Debug\net6.0\ThreadSafeSingletonPattern.deps.json
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\bin\Debug\net6.0\ThreadSafeSingletonPattern.runtimeconfig.json
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\bin\Debug\net6.0\ThreadSafeSingletonPattern.dll
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\bin\Debug\net6.0\ThreadSafeSingletonPattern.pdb
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ThreadSafeSingletonPattern.csproj.AssemblyReference.cache
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ThreadSafeSingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ThreadSafeSingletonPattern.AssemblyInfoInputs.cache
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ThreadSafeSingletonPattern.AssemblyInfo.cs
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ThreadSafeSingletonPattern.csproj.CoreCompileInputs.cache
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ThreadSafeSingletonPattern.dll
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\refint\ThreadSafeSingletonPattern.dll
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ThreadSafeSingletonPattern.pdb
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ThreadSafeSingletonPattern.genruntimeconfig.cache
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\ThreadSafeSingletonPattern\obj\Debug\net6.0\ref\ThreadSafeSingletonPattern.dll

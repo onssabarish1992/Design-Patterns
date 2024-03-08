@@ -1,0 +1,15 @@
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\bin\Debug\net6.0\SingletonPatternNotThreadSafe.exe
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\bin\Debug\net6.0\SingletonPatternNotThreadSafe.deps.json
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\bin\Debug\net6.0\SingletonPatternNotThreadSafe.runtimeconfig.json
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\bin\Debug\net6.0\SingletonPatternNotThreadSafe.dll
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\bin\Debug\net6.0\SingletonPatternNotThreadSafe.pdb
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\SingletonPatternNotThreadSafe.csproj.AssemblyReference.cache
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\SingletonPatternNotThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\SingletonPatternNotThreadSafe.AssemblyInfoInputs.cache
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\SingletonPatternNotThreadSafe.AssemblyInfo.cs
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\SingletonPatternNotThreadSafe.csproj.CoreCompileInputs.cache
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\SingletonPatternNotThreadSafe.dll
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\refint\SingletonPatternNotThreadSafe.dll
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\SingletonPatternNotThreadSafe.pdb
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\SingletonPatternNotThreadSafe.genruntimeconfig.cache
+E:\DevelopmentProjects\DesignPattern\Design-Patterns\SingletonPattern\obj\Debug\net6.0\ref\SingletonPatternNotThreadSafe.dll
