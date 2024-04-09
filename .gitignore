@@ -7,3 +7,6 @@
 /BehaviouralPatterns/StateDesignPattern/obj
 *.pdb
 /BehaviouralPatterns/StateDesignPattern/bin
+/BehaviouralPatterns/TemplatePattern/.vs
+/BehaviouralPatterns/TemplatePattern/bin
+/BehaviouralPatterns/TemplatePattern/obj
