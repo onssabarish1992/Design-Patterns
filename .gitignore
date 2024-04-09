@@ -1,0 +1,9 @@
+
+*.v2
+*.v1
+/BehaviouralPatterns/ChainOfResponsibility/.vs
+/BehaviouralPatterns/ChainOfResponsibility/obj
+/BehaviouralPatterns/StateDesignPattern/.vs
+/BehaviouralPatterns/StateDesignPattern/obj
+*.pdb
+/BehaviouralPatterns/StateDesignPattern/bin
