@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\ThreadSafeSingletonPattern\\ThreadSafeSingletonPattern.csproj",
+      "projectUniqueName": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\CreationalPatterns\\ThreadSafeSingletonPattern\\ThreadSafeSingletonPattern.csproj",
       "projectName": "ThreadSafeSingletonPattern",
-      "projectPath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\ThreadSafeSingletonPattern\\ThreadSafeSingletonPattern.csproj",
+      "projectPath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\CreationalPatterns\\ThreadSafeSingletonPattern\\ThreadSafeSingletonPattern.csproj",
       "packagesPath": "C:\\Users\\Sabarish\\.nuget\\packages\\",
-      "outputPath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\ThreadSafeSingletonPattern\\obj\\",
+      "outputPath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\CreationalPatterns\\ThreadSafeSingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sabarish\\AppData\\Roaming\\NuGet\\NuGet.Config",

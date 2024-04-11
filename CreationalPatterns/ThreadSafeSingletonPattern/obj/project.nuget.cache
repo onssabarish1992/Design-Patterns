@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LUZbF9fckRceRdmiMeCk9dZlg4TXx/3ExDrcduQgeWIXYo0nMdCaZPukM7vJIVt5ZPYe9j6GKTgNgfAe2jHy0A==",
+  "dgSpecHash": "5NNQ6cszYSoFJOqO/36ci1r+NCkHiJiNi8e15y5b/IY5Tx9R47sidkL7aQYLtQF7UZoe71fW4CPknhmqs5X4+A==",
   "success": true,
-  "projectFilePath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\ThreadSafeSingletonPattern\\ThreadSafeSingletonPattern.csproj",
+  "projectFilePath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\CreationalPatterns\\ThreadSafeSingletonPattern\\ThreadSafeSingletonPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\CreationalPatterns\\FactoryPattern\\FactoryPattern.csproj",
       "projectName": "FactoryPattern",
-      "projectPath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\FactoryPattern\\FactoryPattern.csproj",
+      "projectPath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\CreationalPatterns\\FactoryPattern\\FactoryPattern.csproj",
       "packagesPath": "C:\\Users\\Sabarish\\.nuget\\packages\\",
-      "outputPath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\FactoryPattern\\obj\\",
+      "outputPath": "E:\\DevelopmentProjects\\DesignPattern\\Design-Patterns\\CreationalPatterns\\FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sabarish\\AppData\\Roaming\\NuGet\\NuGet.Config",

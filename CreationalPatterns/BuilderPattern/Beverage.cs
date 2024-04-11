@@ -14,8 +14,6 @@ namespace BuilderPattern
 
         public int Sugar { get; set; }
 
-        public int CoffeePowder { get; set; }
-
         public int Water { get; set; }
 
         public int PowderQuantity { get; set; }
